@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Planet 0.1.0",
+  "description": "An interactive, multi-player 3D geology puzzle experience based on Mercury's surface data.",
+  "requestFramePermissions": []
+}
